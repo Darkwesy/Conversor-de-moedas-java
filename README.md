@@ -1,7 +1,7 @@
+# Challange da formação T6 Oracle ONE
 
-<div style="text-align: center; display: flex; align-items: center; justify-content: center; gap: 2rem; padding-top: 1rem">
-<p style="font-size: 2rem; font-weight: bold">Challange da formação T6 Oracle ONE</p> 
-<img src="Badge-Conversor.png" style="width: 150px">
+<div>
+<img src="Badge-Conversor.png" style="width: 150px;">
 </div>
 
 ## Funcionalidades
